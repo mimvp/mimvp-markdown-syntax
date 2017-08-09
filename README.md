@@ -173,9 +173,9 @@ Markdown 表格
 |米扑财富|[money.mimvp.com](http://money.mimvp.com)|2017|
 
 
-<table>
+<table style="text-align: center;">
 <tr>
-<td colspan="3">米扑产品</td>
+<td colspan="3" style="color:red;">米扑产品</td>
 </tr>
 <tr>
 <td>米扑代理</td>
