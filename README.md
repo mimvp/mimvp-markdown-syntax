@@ -224,6 +224,7 @@ Markdown emoji
 
 @mimvp is :+1: This PR looks great - I love mimvp.com  :smiley:
 
+更多emoji表情，请参考： [https://github.com/mimvp/mimvp-markdown-syntax/blob/master/emoji.md](https://github.com/mimvp/mimvp-markdown-syntax/blob/master/emoji.md)
 
 
 <br/>
