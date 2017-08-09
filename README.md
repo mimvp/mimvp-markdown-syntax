@@ -23,6 +23,8 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 官网 <a href="http://money.mimvp.com" target="_blank">http://money.mimvp.com</a>
 
 
+
+
 <br/>
 <br/>
 
@@ -141,6 +143,18 @@ Markdown 有序列表
 4. 米扑财富
 
 
+
+
+
+Markdown 插入图片
+========
+
+### 米扑科技
+![mimvp-logo.png](./mimvp-logo.png)
+
+
+### 米扑科技
+<img src="./mimvp-logo.png" title="mimvp-logo.png" />    
 
 
 
