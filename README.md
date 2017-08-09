@@ -169,7 +169,8 @@ Markdown 表格
 |----|-----|-----|
 |米扑代理|[proxy.mimvp.com](http://proxy.mimvp.com)|2014|
 |米扑域名|[domain.mimvp.com](http://domain.mimvp.com)|2015|
-|米扑财富|[money.mimvp.com](http://money.mimvp.com)|2016|
+|米扑支付|[pay.mimvp.com](http://pay.mimvp.com)|2016|
+|米扑财富|[money.mimvp.com](http://money.mimvp.com)|2017|
 
 
 
