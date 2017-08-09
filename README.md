@@ -23,6 +23,7 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 官网 <a href="http://money.mimvp.com" target="_blank">http://money.mimvp.com</a>
 
 
+
 <br/>
 <br/>
 
@@ -142,9 +143,97 @@ Markdown 有序列表
 
 
 
+<br/>
+<br/>
 
 
 
+Markdown 插入图片
+========
+
+### 1. 米扑科技（默认）
+![mimvp-logo.png](./mimvp-logo.png)
+
+
+### 2. 米扑科技（img）
+<img src="./mimvp-logo.png" title="mimvp-logo.png" />    
+
+
+<br/>
+<br/>
+
+
+Markdown 表格
+========
+|产品|网址|年份|
+|:----|:-----:|-----:|
+|米扑代理|[proxy.mimvp.com](http://proxy.mimvp.com)|2014|
+|米扑域名|[domain.mimvp.com](http://domain.mimvp.com)|2015|
+|米扑支付|[pay.mimvp.com](http://pay.mimvp.com)|2016|
+|米扑财富|[money.mimvp.com](http://money.mimvp.com)|2017|
+
+
+<table>
+<tr>
+<td colspan="3" color="red">米扑产品</td>
+</tr>
+<tr>
+<td>米扑代理</td>
+<td>http://proxy.mimvp.com</td>
+<td>2014</td>
+</tr>
+<tr>
+<td>米扑域名</td>
+<td>http://domain.mimvp.com</td>
+<td>2015</td>
+</tr>
+<tr>
+<td>米扑支付</td>
+<td>http://pay.mimvp.com</td>
+<td>2016</td>
+</tr>
+<tr>
+<td>米扑财富</td>
+<td>http://money.mimvp.com</td>
+<td>2017</td>
+</tr>
+</table>
+
+
+<br/>
+<br/>
+
+
+Markdown 多选项
+========
+米扑产品包含？
+- [x] 米扑代理
+- [x] 米扑域名
+- [x] 米扑支付
+- [x] 米扑财富
+- [ ] 米扑基金
+- [ ] 米扑期货
+
+
+<br/>
+<br/>
+
+
+Markdown emoji
+========
+
+@mimvp is :+1: This PR looks great - I love mimvp.com  :smiley:
 
 
 
+<br/>
+<br/>
+
+
+
+米扑科技
+----------
+
+<img src="./mimvp-logo.png" title="mimvp-logo.png" />
+
+All Right &copy; [mimvp.com](http://mimvp.com)   :blush:
