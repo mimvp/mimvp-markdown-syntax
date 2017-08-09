@@ -222,7 +222,7 @@ Markdown 多选项
 Markdown emoji
 ========
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:  
+@mimvp is :+1: This PR looks great - I love mimvp.com  :revolving_hearts:
 
 
 
@@ -236,8 +236,4 @@ Markdown emoji
 
 <img src="./mimvp-logo.png" title="mimvp-logo.png" />
 
-<a href="http://mimvp.com" target="_blank">http://mimvp.com</a>
-
-All Right &copy; [mimvp.com](http://mimvp.com)
-
-:blush:
+All Right &copy; [mimvp.com](http://mimvp.com)   :blush:
