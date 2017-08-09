@@ -166,7 +166,7 @@ Markdown 插入图片
 Markdown 表格
 ========
 
-| ----|-----|-----|
+|----|-----|-----|
 |米扑科技|
 |米扑代理|[proxy.mimvp.com](http://proxy.mimvp.com)|2014|
 |米扑域名|[domain.mimvp.com](http://domain.mimvp.com)|2015|
