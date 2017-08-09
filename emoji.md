@@ -3,7 +3,7 @@ Emoji表情
 将emoji表情的符号码复制后输入你的markdown文本里，即可显示emoji表情。
 如`:blush:`，显示为:blush:
 
-### Github emoji 官网： [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+### Github emoji官网： [EMOJI CHEAT SHEET](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 
 ## 人物
