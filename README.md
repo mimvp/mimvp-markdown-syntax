@@ -237,8 +237,8 @@ GitHUb emoji表情，请参考： [https://www.webpagefx.com/tools/emoji-cheat-s
 Markdown diff 高亮对比
 ----------
 ```diff
-+ 删除emoji.txt
-- 增加emoji.md
++ 增加 emoji.md
+- 删除 emoji.txt
 ```
 
 
