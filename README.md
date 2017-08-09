@@ -173,28 +173,28 @@ Markdown 表格
 |米扑财富|[money.mimvp.com](http://money.mimvp.com)|2017|
 
 
-<table style="text-align: center;">
+<table>
 <tr>
-<td colspan="3" style="color:red;">米扑产品</td>
+<td colspan="3" color="red">米扑产品</td>
 </tr>
 <tr>
 <td>米扑代理</td>
-<td>[proxy.mimvp.com](http://proxy.mimvp.com)</td>
+<td>http://proxy.mimvp.com</td>
 <td>2014</td>
 </tr>
 <tr>
 <td>米扑域名</td>
-<td>[domain.mimvp.com](http://domain.mimvp.com)</td>
+<td>http://domain.mimvp.com</td>
 <td>2015</td>
 </tr>
 <tr>
 <td>米扑支付</td>
-<td>[pay.mimvp.com](http://pay.mimvp.com)</td>
+<td>http://pay.mimvp.com</td>
 <td>2016</td>
 </tr>
 <tr>
 <td>米扑财富</td>
-<td>[money.mimvp.com](http://money.mimvp.com)</td>
+<td>http://money.mimvp.com</td>
 <td>2017</td>
 </tr>
 </table>
