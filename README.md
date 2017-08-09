@@ -166,7 +166,7 @@ Markdown 插入图片
 Markdown 表格
 ========
 |产品|网址|年份|
-|----|-----|-----|
+|:----|:-----:|-----:|
 |米扑代理|[proxy.mimvp.com](http://proxy.mimvp.com)|2014|
 |米扑域名|[domain.mimvp.com](http://domain.mimvp.com)|2015|
 |米扑支付|[pay.mimvp.com](http://pay.mimvp.com)|2016|
@@ -222,5 +222,22 @@ Markdown 多选项
 Markdown emoji
 ========
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:  
 
+
+
+<br/>
+<br/>
+
+
+
+米扑科技
+----------
+
+<img src="./mimvp-logo.png" title="mimvp-logo.png" />
+
+<a href="http://mimvp.com" target="_blank">http://mimvp.com</a>
+
+All Right &copy; [mimvp.com](http://mimvp.com)
+
+:blush:
