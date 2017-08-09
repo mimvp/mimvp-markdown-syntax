@@ -24,7 +24,6 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 
 
 
-
 <br/>
 <br/>
 
@@ -144,16 +143,19 @@ Markdown 有序列表
 
 
 
+<br/>
+<br/>
+
 
 
 Markdown 插入图片
 ========
 
-### 米扑科技（默认）
+### 1. 米扑科技（默认）
 ![mimvp-logo.png](./mimvp-logo.png)
 
 
-### 米扑科技（img）
+### 2. 米扑科技（img）
 <img src="./mimvp-logo.png" title="mimvp-logo.png" />    
 
 
