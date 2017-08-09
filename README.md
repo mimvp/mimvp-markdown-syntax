@@ -222,7 +222,7 @@ Markdown 多选项
 Markdown emoji
 ========
 
-@mimvp is :+1: This PR looks great - I love mimvp.com  :revolving_hearts:
+@mimvp is :+1: This PR looks great - I love mimvp.com  :smiley:
 
 
 
