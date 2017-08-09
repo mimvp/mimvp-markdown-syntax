@@ -69,6 +69,22 @@ Markdown 引用块
 <br/>
 
 
+Markdown 代码高亮
+========
+
+```python
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+
+if __name__ == "__main__":
+    print("I love mimvp.com")
+```
+
+
+<br/>
+<br/>
+
+
 Markdown 字体加粗
 ========
 我爱 米扑科技  <br/>
