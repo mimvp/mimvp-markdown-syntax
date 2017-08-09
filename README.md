@@ -226,6 +226,22 @@ Markdown emoji
 
 更多emoji表情，请参考： [https://github.com/mimvp/mimvp-markdown-syntax/blob/master/emoji.md](https://github.com/mimvp/mimvp-markdown-syntax/blob/master/emoji.md)
 
+GitHUb emoji表情，请参考： [https://www.webpagefx.com/tools/emoji-cheat-sheet/](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+
+<br/>
+<br/>
+
+
+
+Markdown diff 高亮对比
+----------
+```diff
++ 删除emoji.txt
+- 增加emoji.md
+```
+
+
 
 <br/>
 <br/>
