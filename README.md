@@ -149,11 +149,11 @@ Markdown 有序列表
 Markdown 插入图片
 ========
 
-### 米扑科技
+### 米扑科技（默认）
 ![mimvp-logo.png](./mimvp-logo.png)
 
 
-### 米扑科技
+### 米扑科技（img）
 <img src="./mimvp-logo.png" title="mimvp-logo.png" />    
 
 
