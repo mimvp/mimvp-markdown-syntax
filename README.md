@@ -77,6 +77,7 @@ Markdown 代码高亮
 # -*- coding:utf-8 -*-
 
 if __name__ == "__main__":
+    echo "hello mimvp"
     print("I love mimvp.com")
 ```
 
