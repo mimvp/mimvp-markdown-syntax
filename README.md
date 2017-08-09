@@ -45,10 +45,9 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 Markdown 代码块
 ========
 > 米扑科技，小而美，简而信，工匠艺术的互联网服务。
-
 > 米扑团队，来自百度、小米、创新工场、阿里，核心研发，实战经验丰富。
-
 > 米扑产品，已上线服务包括米扑代理、米扑域名、米扑支付、米扑财富、米扑博客等。
+> 米扑科技官网： [mimvp.com](http://mimvp.com)
 
 
 
