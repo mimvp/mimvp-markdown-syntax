@@ -28,16 +28,23 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 
 
 字体高亮
+========
 <font face="黑体">我是黑体字</font>
+
 <font face="微软雅黑">我是微软雅黑</font>
+
 <font face="STCAIYUN">我是华文彩云</font>
+
 <font color=#0099ff size=3 face="黑体">color=#0099ff size=3 face="黑体"</font>
+
 <font color=#00ffff size=4>color=#00ffff size=4</font>
+
 <font color=gray size=5>color=gray size=5</font>
 
 
 <br/>
 <br/>
+
 
 
 标题示例
