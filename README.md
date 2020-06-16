@@ -47,7 +47,7 @@ markdown syntax of github.com、coding.net、git.oschina.net、code.csdn.net，e
 <font color="#00ffff" size="4">color="#00ffff" size="4"</font>
 ```
 
-```c
+```css
 <font color="#00ffff" size="4">color="#00ffff" size="4"</font>
 ```
 
